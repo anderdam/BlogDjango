@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d5e2e24-7139-4f0d-b7aa-779b87dc6901" name="Default Changelist" comment="" />
+    <list default="true" id="5d5e2e24-7139-4f0d-b7aa-779b87dc6901" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Blog Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blog Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blog Django/untitled/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blog Django/untitled/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blog Django/untitled/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blog Django/untitled/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blog Django/untitled/wsgi.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Blog Django" />
   </component>
   <component name="ProjectId" id="1ZkFNE7UZ928NjkS4kBCfGT0MEQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -210,14 +218,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585375143020</updated>
-      <workItem from="1585375155241" duration="68000" />
+      <workItem from="1585375155241" duration="312000" />
     </task>
+    <task id="LOCAL-00001" summary="teste">
+      <created>1585375351208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585375351208</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1585375349999">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585375349999" />
     <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1585375313305">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -230,5 +254,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1585375222189" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1585375425145">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1585375425145" />
   </component>
 </project>
